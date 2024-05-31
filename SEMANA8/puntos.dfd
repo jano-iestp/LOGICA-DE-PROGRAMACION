@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+7
+ganados
+1
+0
+8
+perdidos
+1
+0
+9
+empatados
+1
+0
+4
+1
+40
+"Ingrese el número de partidos ganados:"
+5
+1
+7
+ganados
+4
+1
+41
+"Ingrese el número de partidos perdidos:"
+5
+1
+8
+perdidos
+4
+1
+42
+"Ingrese el número de partidos empatados:"
+5
+1
+9
+empatados
+6
+1
+6
+puntos
+25
+(ganados * 3) + empatados
+4
+1
+42
+"El puntaje total del equipo es: ", puntos
+1

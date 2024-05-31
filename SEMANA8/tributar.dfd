@@ -1,0 +1,59 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+4
+edad
+1
+0
+8
+ingresos
+1
+0
+4
+1
+18
+"Ingrese su edad:"
+5
+1
+4
+edad
+4
+1
+33
+"Ingrese sus ingresos mensuales:"
+5
+1
+8
+ingresos
+7
+0
+1
+10
+edad >= 18
+4
+1
+24
+"No tienes que tributar"
+13
+7
+0
+1
+16
+ingresos >= 1000
+4
+1
+24
+"No tienes que tributar"
+13
+4
+1
+21
+"Tienes que tributar"
+13
+13
+1

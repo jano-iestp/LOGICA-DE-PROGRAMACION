@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+5
+nota1
+1
+0
+5
+nota2
+1
+0
+5
+nota3
+1
+0
+4
+1
+34
+"Ingrese la primera nota parcial:"
+5
+1
+5
+nota1
+4
+1
+34
+"Ingrese la segunda nota parcial:"
+5
+1
+5
+nota2
+4
+1
+34
+"Ingrese la tercera nota parcial:"
+5
+1
+5
+nota3
+6
+1
+8
+promedio
+27
+(nota1 + nota2 + nota3) / 3
+4
+1
+26
+'El promedio es' ,promedio
+1

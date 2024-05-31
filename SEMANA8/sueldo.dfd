@@ -1,0 +1,62 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+14
+horaslaboradas
+1
+0
+10
+tarifahora
+1
+0
+6
+sueldo
+1
+0
+4
+1
+40
+"Ingrese las horas laboradas en el mes:"
+5
+1
+14
+horasLaboradas
+4
+1
+29
+"Ingrese la tarifa por hora:"
+5
+1
+10
+tarifaHora
+6
+1
+6
+sueldo
+27
+horasLaboradas * tarifaHora
+4
+1
+38
+"El sueldo del empleado es: " , sueldo
+7
+0
+1
+13
+sueldo < 1000
+4
+1
+16
+"No recibe bono"
+13
+4
+1
+13
+"Recibe bono"
+13
+1
