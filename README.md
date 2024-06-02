@@ -13,6 +13,6 @@ problemas 1
 
 ![[SEMANA8/cobrarjuego.psc]] pseudocodigo
 
-![imagen](SEMANA8/insignia cisco ciberseguridad.jpg) imagen
+![](SEMANA8/insignia cisco ciberseguridad.jpg) imagen
 
 
