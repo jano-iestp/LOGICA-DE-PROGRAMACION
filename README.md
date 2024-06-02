@@ -16,3 +16,6 @@ problemas 1
 ![](SEMANA8/insignia cisco ciberseguridad.jpg) imagen
 
 [](https://youtu.be/dEKEXoJEFE0?si=8J6PEHbZCHGY2AH0)
+
+
+!SEMANA8/insignia cisco ciberseguridad.jpg
