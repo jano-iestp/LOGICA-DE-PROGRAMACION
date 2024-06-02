@@ -14,7 +14,7 @@ problemas 1
 
 ![[SEMANA8/area.dfd]] diagrama de flujos
 
-![[SEMANA8/cobrarjuego.psc]] pseudocodigo
+![xdddd](SEMANA8/cobrarjuego.psc) pseudocodigo
 
 ![imagen](SEMANA8/insignia cisco ciberseguridad.jpg) imagen
 
