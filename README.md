@@ -1,4 +1,4 @@
-#Las Tareas resueltas:
+#Las Tareas resueltas
 
 [tarea1](SEMANA1/README.md)
 [tarea2](SEMANA2/README.md)
