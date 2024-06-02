@@ -1,2 +1,18 @@
 #Las Tareas resultas:
 
+[tarea1](SEMANA1/README.md)
+[tarea2](SEMANA2/README.md)
+[tarea3](SEMANA3/README.md)
+[tarea4](SEMANA4/README.md)
+[tarea5](SEMANA5/README.md)
+[tarea6](SEMANA6/README.md)
+[tarea7](SEMANA7/README.md)
+[tarea8](SEMANA8/README.md)
+[tarea9](SEMANA9/README.md)
+[tarea10](SEMANA10/README.md)
+[tarea11](SEMANA11/README.md)
+[tarea12](SEMANA12/README.md)
+[tarea13](SEMANA13/README.md)
+[tarea14](SEMANA14/README.md)
+[tarea15](SEMANA15/README.md)
+[tarea16](SEMANA16/README.md)
