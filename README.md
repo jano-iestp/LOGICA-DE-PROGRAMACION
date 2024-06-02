@@ -13,4 +13,4 @@ problemas 1
 
 ![[LOGICA-DE-PROGRAMACION/SEMANA8/cobrarjuego.psc]] pseudocodigo
 
-![](LOGICA-DE-PROGRAMACION/SEMANA8/insignia cisco ciberseguridad.jpg) imagen
+![imagen](LOGICA-DE-PROGRAMACION/SEMANA8/insignia cisco ciberseguridad.jpg) imagen
