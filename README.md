@@ -19,3 +19,4 @@ problemas 1
 
 
 !SEMANA8/insignia cisco ciberseguridad.jpg
+!insignia cisco ciberseguridad.jpg
