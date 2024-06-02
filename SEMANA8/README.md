@@ -1,2 +1,2 @@
 problema 1
-[](area.dfd)
+[](LOGICA-DE-PROGRAMACION/SEMANA8/area.dfd)
