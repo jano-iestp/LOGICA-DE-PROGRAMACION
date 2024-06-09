@@ -1,5 +1,4 @@
-# Dime gracias papi :v
-
+# Solucionario de las tareas 👀
 
 ### [tarea1](SEMANA1/README.md): Importancia de la programacion
 
@@ -16,6 +15,8 @@
 ### [tarea7](SEMANA7/README.md): Sistema Decimal, Binario, Tablas de verdad
 
 ### [tarea8](SEMANA8/README.md): Estructuras de control: If-else
+
+## [Dime gracias papi, soy tu salvador :v](https://youtu.be/eW-Ax7dhQw4?si=Hz-wfTlJk4nBIOYv) 
 
 ### [tarea9](SEMANA9/README.md): Switch
 
