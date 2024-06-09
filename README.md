@@ -1,17 +1,13 @@
 # Dime gracias papi :v
 
 
-### Semana 1: Importancia de la programacion
-- [ ] [tarea1](SEMANA1/README.md)
+### [tarea1](SEMANA1/README.md): Importancia de la programacion
 
-### Semana 2: Fases de la programacion y analisis 
-- [ ] [tarea2](SEMANA2/README.md)
+### [tarea2](SEMANA2/README.md): Fases de la programacion y analisis
 
-### Semana 3: Fases de la programacion y diseño
-- [ ] [tarea3](SEMANA3/README.md)
+### [tarea3](SEMANA3/README.md): Fases de la programacion y diseño
 
-### Semana 4: Fases en el desarrollo de programas
-- [ ] [tarea4](SEMANA4/README.md)
+### [tarea4](SEMANA4/README.md): Fases en el desarrollo de programas
 
 ### Semana 5: Tipos de datos, variables y comentarios
 - [ ] [tarea5](SEMANA5/README.md)
