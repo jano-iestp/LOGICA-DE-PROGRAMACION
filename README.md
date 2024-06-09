@@ -9,8 +9,8 @@
 
 ### [tarea4](SEMANA4/README.md): Fases en el desarrollo de programas
 
-### Semana 5: Tipos de datos, variables y comentarios
-- [ ] [tarea5](SEMANA5/README.md)
+### - [ ] [tarea5](SEMANA5/README.md): Tipos de datos, variables y comentarios
+
 
 ### Semana 6: Expresiones y operadores
 - [ ] [tarea6](SEMANA6/README.md)
