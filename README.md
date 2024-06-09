@@ -29,8 +29,6 @@
 
 ### [tarea14](SEMANA14/README.md): NONE
 
-### Semana 15: NONE
-- [ ] [tarea15](SEMANA15/README.md)
+### [tarea15](SEMANA15/README.md): NONE
 
-### Semana 16: NONE
-- [ ] [tarea16](SEMANA16/README.md)
+### [tarea16](SEMANA16/README.md): NONE
