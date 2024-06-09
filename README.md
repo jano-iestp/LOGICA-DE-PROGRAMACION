@@ -16,8 +16,6 @@
 
 ### [tarea8](SEMANA8/README.md): Estructuras de control: If-else
 
-## [Dime gracias papi, soy tu salvador :v](https://youtu.be/eW-Ax7dhQw4?si=Hz-wfTlJk4nBIOYv) 
-
 ### [tarea9](SEMANA9/README.md): Switch
 
 ### [tarea10](SEMANA10/README.md): NONE
@@ -33,3 +31,5 @@
 ### [tarea15](SEMANA15/README.md): NONE
 
 ### [tarea16](SEMANA16/README.md): NONE
+
+## [Dime gracias papi, soy tu salvador :v](https://youtu.be/eW-Ax7dhQw4?si=Hz-wfTlJk4nBIOYv) 
