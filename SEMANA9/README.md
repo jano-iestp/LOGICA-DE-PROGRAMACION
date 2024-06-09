@@ -1,4 +1,4 @@
-##Switch
+## Switch
 
 1. Considera estás desarrollando una web donde trabajas con tipos de motor (suponemos que se trata del tipo de motor de una bomba para mover fluidos). Define una variable $tipoMotor y asígnale valor 3. Los valores posibles son 1, 2, 3, 4. A través de un condicional switch haz lo siguiente:
 a) Si el tipo de motor es 0, mostrar un mensaje indicando “No hay establecido un valor definido para el tipo de bomba”.
