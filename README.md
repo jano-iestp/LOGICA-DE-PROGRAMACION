@@ -18,7 +18,7 @@
 
 ### [tarea9](SEMANA9/README.md): Switch
 
-### [tarea10](SEMANA10/README.md): NONE
+### [tarea10](SEMANA10/README.md): While y Do While
 
 ### [tarea11](SEMANA11/README.md): NONE
 
